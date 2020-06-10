@@ -9,7 +9,7 @@ Server Url: https://mebel-bs.ru/bot/ -->
 // require_once 'WatsAppBot.php';
 
 // $bot = new WatsAppBot();
-// $bot->sendMessage('37477595543', 'Hi Sahak It`s my script is working');
+// $bot->sendMessage('37493316461, 'Hi Karen It`s my script working');
 
 
 
