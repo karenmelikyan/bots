@@ -2,18 +2,39 @@
 host: 37.230.115.187
 user: karen
 pass: D0e3C0r8
-Server Url: https://mebel-bs.ru/bot/ -->
+Server Url: https://mebel-bs.ru/bot/ 
+-->
+
+<!-- Google Calendar
+https://developers.google.com/calendar/quickstart/php
+
+CAllback Url: https://mebel-bs.ru/bot/gc_callback
+
+Client ID
+1068018710786-ms3dc706uu98t0184stc23957iqhrpvo.apps.googleusercontent.com
+
+Client Secret
+3JBxEm7PruMugsuLg6b6T5TY
+-->
 
 <?php 
 
-// require_once 'WatsAppBot.php';
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
+// require_once 'watsapp/WatsAppBot.php';
 
 // $bot = new WatsAppBot();
- $bot->sendMessage('37493316461, 'Hi Karen It`s my script working');
+// $bot->sendMessage('37477424845', 'Hi Ashot It`s my script working'
+
+require_once 'watsapp/DemoBot.php';
+echo 'Demo bot test';
+//new DemoBot();
 
 
 
-echo 'test';
+
 
 
 
