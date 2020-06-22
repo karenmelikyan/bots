@@ -1,0 +1,82 @@
+array(2) {
+  ["messages"]=>
+  array(1) {
+    [0]=>
+    array(15) {
+      ["id"]=>
+      string(55) "false_37498989610@c.us_9C84CED531B24FE3B334E332148CF157"
+      ["body"]=>
+      string(1) "4"
+      ["fromMe"]=>
+      bool(false)
+      ["self"]=>
+      int(0)
+      ["isForwarded"]=>
+      int(0)
+      ["author"]=>
+      string(16) "37498989610@c.us"
+      ["time"]=>
+      int(1592639636)
+      ["chatId"]=>
+      string(16) "37498989610@c.us"
+      ["messageNumber"]=>
+      int(2466)
+      ["type"]=>
+      string(4) "chat"
+      ["senderName"]=>
+      string(3) "Ani"
+      ["caption"]=>
+      NULL
+      ["quotedMsgBody"]=>
+      NULL
+      ["quotedMsgId"]=>
+      NULL
+      ["chatName"]=>
+      string(14) "+374 98 989610"
+    }
+  }
+  ["instanceId"]=>
+  string(6) "141030"
+}
+
+array(2) {
+  ["messages"]=>
+  array(1) {
+    [0]=>
+    array(15) {
+      ["id"]=>
+      string(55) "false_37498989610@c.us_2C1758B2F2B2CB731E8C6BC6A08C0915"
+      ["body"]=>
+      string(1) "5"
+      ["fromMe"]=>
+      bool(false)
+      ["self"]=>
+      int(0)
+      ["isForwarded"]=>
+      int(0)
+      ["author"]=>
+      string(16) "37498989610@c.us"
+      ["time"]=>
+      int(1592639753)
+      ["chatId"]=>
+      string(16) "37498989610@c.us"
+      ["messageNumber"]=>
+      int(2469)
+      ["type"]=>
+      string(4) "chat"
+      ["senderName"]=>
+      string(3) "Ani"
+      ["caption"]=>
+      NULL
+      ["quotedMsgBody"]=>
+      NULL
+      ["quotedMsgId"]=>
+      NULL
+      ["chatName"]=>
+      string(14) "+374 98 989610"
+    }
+  }
+  ["instanceId"]=>
+  string(6) "141030"
+}
+

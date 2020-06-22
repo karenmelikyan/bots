@@ -3,7 +3,7 @@
 //https://chat-api.com/ru/whatsapp-bot-php.html
 
 
-class WatsAppBot
+class DemoBot
 {
     //specify instance URL and token
     private $apiUrl;
